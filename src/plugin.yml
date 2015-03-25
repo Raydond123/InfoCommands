@@ -1,0 +1,8 @@
+name: InfoCommands
+main: me.raydond123.infocommands.InfoCommands
+version: 1.0
+commands:
+   sites:
+      description: A command.
+   events:
+      description: A command.

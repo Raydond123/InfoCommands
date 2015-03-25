@@ -1,0 +1,6 @@
+events-message:
+ - '&9[&8Events&9]'
+ - '&5this is a test'
+sites-message:
+ - '&5[&0Sites&5]'
+ - '&6this is also a test'
