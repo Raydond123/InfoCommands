@@ -21,6 +21,7 @@ public class InfoCommands extends JavaPlugin implements Listener {
 
         logger.info("[InfoCommands] This plugin has been enabled!");
         saveDefaultConfig();
+        saveConfig();
         Bukkit.getPluginManager().registerEvents(this, this);
 
     }
